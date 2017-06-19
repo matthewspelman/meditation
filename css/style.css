@@ -1,0 +1,30 @@
+body {
+	font-family: 'Quicksand', sans-serif;
+	text-align: center;
+	align-content: center;
+}
+
+header {
+	text-align: center;
+}
+
+.transparentlogo {
+	height: 450px;
+	width: 600px;
+}
+
+footer, small {
+  color: black;
+  padding: 10px 30px;
+  page-width: 100%;
+  margin: 0 auto;
+  text-align: center;
+  font-family: 'Quicksand', sans-serif;
+}
+
+@media handheld, only screen and (max-width: 767px) {
+
+body {
+    text-align: center;
+  }
+}
