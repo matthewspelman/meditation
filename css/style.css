@@ -6,11 +6,41 @@ body {
 
 header {
 	text-align: center;
+	max-width: 100%;
 }
 
 .transparentlogo {
-	height: 450px;
-	width: 600px;
+	max-width: 100%;
+}
+
+div#mc_embed_signup_scroll {
+  margin-right: auto;
+  margin-left: auto;
+  display: table;
+}
+
+#mc_embed_signup input.email {
+  width: 85%;
+}
+
+#mc_embed_signup input.button {
+   width: 60%;
+}
+
+#mc_embed_signup .button:hover {
+  background: #FF0000;
+}
+/* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
+We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+
+.btn-primary {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 200px;
+	height: 50px;
+  text-align: center;
+  font-size: 1em;
 }
 
 footer, small {
@@ -27,6 +57,7 @@ footer, small {
 body {
     text-align: center;
     align-content: center;
+    display: block;
   }
 
 }
