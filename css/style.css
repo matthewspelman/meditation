@@ -28,4 +28,9 @@ body {
     text-align: center;
     align-content: center;
   }
+
+.transparentlogo {
+	max-width: 50%;
+}
+
 }
