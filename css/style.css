@@ -1,16 +1,14 @@
 body {
 	font-family: 'Quicksand', sans-serif;
-	text-align: center;
-	align-content: center;
-}
-
-header {
-	text-align: center;
-	max-width: 100%;
+  text-align: center;
 }
 
 .transparentlogo {
-	max-width: 100%;
+	max-width: 60%;
+}
+
+section {
+  padding-bottom: 2%;
 }
 
 div#mc_embed_signup_scroll {
