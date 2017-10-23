@@ -1,6 +1,7 @@
 body {
 	font-family: 'Quicksand', sans-serif;
   text-align: center;
+  padding: 5px;
 }
 
 .transparentlogo {
@@ -19,6 +20,19 @@ a.btn.btn-primary {
 	height: 50px;
   text-align: center;
   font-size: 1em;
+}
+
+label {
+  color: grey;
+  padding-top: 15px;
+  text-align: center;
+}
+
+div#mc_embed_signup_scroll {
+  margin-right: auto;
+  margin-left: auto;
+  display: inline-block;
+  padding: 5px;
 }
 
 footer, small {
@@ -43,7 +57,11 @@ body {
     text-align: center;
     align-content: center;
     display: block;
-    padding: 15px;
+    padding: 50px;
   }
+
+a.btn.btn-primary {
+  size: 1px;
+}
 
 }
