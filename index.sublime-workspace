@@ -1,0 +1,390 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"handl",
+				"handleSuccess"
+			],
+			[
+				"count",
+				"countTheOdds"
+			],
+			[
+				"API",
+				"API_KEY"
+			],
+			[
+				"remove",
+				"removeItem"
+			],
+			[
+				"new",
+				"newItem"
+			],
+			[
+				"ape",
+				"appendChild"
+			],
+			[
+				"create",
+				"createElement"
+			],
+			[
+				"query",
+				"querySelector"
+			],
+			[
+				"add",
+				"add-item"
+			],
+			[
+				"quer",
+				"querySelector"
+			],
+			[
+				"food",
+				"food"
+			],
+			[
+				"eat",
+				"eatSomething"
+			],
+			[
+				"cpu",
+				"cpuChoice"
+			],
+			[
+				"user",
+				"userChoice"
+			],
+			[
+				"fizz",
+				"fizzbuzz"
+			],
+			[
+				"border",
+				"border-image"
+			],
+			[
+				"l",
+				"li\tTag"
+			],
+			[
+				"inl",
+				"inline"
+			],
+			[
+				"inline",
+				"inline-flex"
+			],
+			[
+				"al",
+				"align-content"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"align-te",
+				"align-content"
+			],
+			[
+				"align",
+				"align-items"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"top",
+				"padding-top"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"grid",
+				"grid-pad"
+			],
+			[
+				"gly",
+				"glyphicon-email"
+			],
+			[
+				"col",
+				"col-1-1"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 137.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 396.0
+	},
+	"console":
+	{
+		"height": 181.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/User/Documents/GitHub/ga-jsd/class-work/class11/geo_locator/main.js",
+		"/C/Users/User/Documents/GitHub/ga-jsd/class-work/class11/functions_lab/main.js",
+		"/C/Users/User/Documents/GitHub/ga-jsd/class-work/class11/open_weather_map_solution/main.js",
+		"/C/Users/User/Documents/GitHub/ga-jsd/class-work/class08/citi_bike_google_maps_solution/script.js",
+		"/C/Users/User/Documents/GitHub/ga-jsd/class-work/class11/open_weather_map_solution/index.html",
+		"/C/Users/User/Documents/GitHub/meditation/index.html",
+		"/C/Users/User/Documents/GitHub/ga-jsd/jsd-hw-ms/class10/open_weather_map/style.css",
+		"/C/Users/User/Documents/GitHub/ga-jsd/jsd-hw-ms/class10/open_weather_map/main.js",
+		"/C/Users/User/Documents/GitHub/ga-jsd/jsd-hw-ms/class10/open_weather_map/index.html",
+		"/C/Users/User/Documents/GitHub/ga-jsd/class-work/class10/bitcoin/app.js",
+		"/C/Users/User/Documents/GitHub/ga-jsd/class-work/class10/bitcoin/index.html",
+		"/C/Users/User/Documents/GitHub/ga-jsd/jsd-hw-ms/class09/citi_bike_templates/app.js",
+		"/C/Users/User/Documents/GitHub/ga-jsd/jsd-hw-ms/class09/citi_bike_templates/index.html",
+		"/C/Users/User/Documents/GitHub/ga-jsd/class-work/class09/templates_intro/index.html",
+		"/C/Users/User/Documents/GitHub/ga-jsd/class-work/class09/templates_intro/app.js",
+		"/C/Users/User/Documents/GitHub/ga-jsd/class-work/class08/list_maker/index.html",
+		"/C/Users/User/Documents/GitHub/ga-jsd/class-work/class08/list_maker/js/app.js",
+		"/C/Users/User/Documents/GitHub/ga-jsd/class-work/class08/list_maker/css/style.css",
+		"/C/Users/User/Documents/GitHub/ga-jsd/jsd-hw-ms/class07/citi_bike_google_maps/style.css",
+		"/C/Users/User/Documents/GitHub/ga-jsd/jsd-hw-ms/class07/citi_bike_google_maps/index.html",
+		"/C/Users/User/Documents/GitHub/ga-jsd/jsd-hw-ms/class07/citi_bike_google_maps/script.js",
+		"/C/Users/User/Documents/GitHub/ga-jsd/jsd-hw-ms/class07/website_starter/css/styles.css",
+		"/C/Users/User/Documents/GitHub/ga-jsd/jsd-hw-ms/class07/website_starter/index.html",
+		"/C/Users/User/Documents/GitHub/ga-jsd/jsd-hw-ms/class06/object_hw.js",
+		"/C/Users/User/Documents/GitHub/ga-jsd/class-work/class06/dog.js",
+		"/C/Users/User/Documents/GitHub/ga-jsd/class-work/class06/mta.js",
+		"/C/Users/User/Documents/GitHub/ga-jsd/class-work/class05/dice/mta",
+		"/C/Users/User/Documents/GitHub/ga-jsd/jsd-hw-ms/class05/rock_paper_scissors.js",
+		"/C/Users/User/Documents/GitHub/ga-jsd/class-work/class05/dice/css/style.css",
+		"/C/Users/User/Documents/GitHub/ga-jsd/class-work/class05/dice/index.html",
+		"/C/Users/User/Documents/GitHub/ga-jsd/class-work/class05/dice/js/app.js",
+		"/C/Users/User/Documents/GitHub/ga-jsd/class-work/class03/class03/arrays.js",
+		"/C/Users/User/Documents/GitHub/ga-jsd/jsd-hw-ms/class04/fizzbuzz.js",
+		"/C/Users/User/Documents/GitHub/ga-jsd/jsd-hw-ms/class04/99_bottles_of_beer.js",
+		"/C/Users/User/Documents/GitHub/ga-jsd/class-work/class04/conditionals_lab.js",
+		"/C/Users/User/Documents/GA_JSD/class-work/index.html",
+		"/C/Users/User/Documents/GA_JSD/class-work/class03/class03/arrays.js",
+		"/C/Users/User/Downloads/class03.zip",
+		"/C/Users/User/Documents/GA_JSD/matthewspelman.github.io/laughing-guide/README.md",
+		"/C/Users/User/Documents/GA_JSD/README.md",
+		"/C/Users/User/Documents/GA_JSD/goals.html",
+		"/C/Users/User/Documents/GA_JSD/worries.html",
+		"/C/Users/User/Documents/GA_JSD/index.html",
+		"/C/Users/User/Documents/GA_JSD/css/style.css",
+		"/C/Users/User/Documents/GitHub/jsd_Pseudo Code Exercise/GitHub.appref-ms",
+		"/C/Sites/myrubyblog/config/routes.rb",
+		"/C/Sites/myrubyblog/Gemfile",
+		"/C/Sites/myrubyblog/config/database.yml",
+		"/C/Sites/myrubyblog/app/views/home/index.html.erb",
+		"/C/Users/User/Documents/GitHub/meditation/css/style.css",
+		"/C/Users/User/Documents/GitHub/meditation/js/project.js",
+		"/C/Users/User/Documents/GitHub/laundrypaid/laundrypaid-master/index.html",
+		"/C/Users/User/Documents/GitHub/meditation/CNAME",
+		"/C/Users/User/Documents/GitHub/laundrypaid/laundrypaid-master/css/style.css",
+		"/C/Users/User/Documents/GitHub/Michelle Currier Website/blocks/mobile.block",
+		"/C/Users/User/Documents/GitHub/Michelle Currier Website/assets/ui-icons.svg",
+		"/C/Users/User/Documents/GitHub/Michelle Currier Website/template.conf",
+		"/C/Users/User/Documents/GitHub/template/template.conf",
+		"/C/Users/User/Documents/GitHub/template/site.region",
+		"/C/Users/User/Documents/GitHub/template/styles/util.less",
+		"/C/Users/User/Documents/GitHub/template/styles/ui-icons.less",
+		"/C/Users/User/Documents/GitHub/template/styles/tweak.less",
+		"/C/Users/User/Documents/GitHub/template/styles/sqs-video-background.less",
+		"/C/Users/User/Documents/GitHub/template/styles/social-links.less",
+		"/C/Users/User/Documents/GitHub/template/styles/site.less",
+		"/C/Users/User/Documents/GitHub/template/styles/reset.css",
+		"/C/Users/User/Documents/GitHub/template/styles/mobile-styles.less",
+		"/C/Users/User/Documents/GitHub/template/styles/index.less",
+		"/C/Users/User/Documents/GitHub/template/styles/header.less",
+		"/C/Users/User/Documents/GitHub/template/styles/footer.less",
+		"/C/Users/User/Documents/GitHub/template/styles/cart.less",
+		"/C/Users/User/Documents/GitHub/template/styles/ancillary.less",
+		"/C/Users/User/Documents/GitHub/template/scripts/site-bundle.js",
+		"/C/Users/User/Documents/GitHub/template/collections/products.conf",
+		"/C/Users/User/Documents/GitHub/template/collections/page.conf",
+		"/C/Users/User/Documents/GitHub/template/collections/index.list",
+		"/C/Users/User/Documents/GitHub/template/collections/index.conf",
+		"/C/Users/User/Documents/GitHub/template/collections/folders.conf",
+		"/C/Users/User/Documents/GitHub/template/collections/events.conf",
+		"/C/Users/User/Documents/GitHub/template/collections/blog.conf",
+		"/C/Users/User/Documents/GitHub/template/collections/album.conf",
+		"/C/Users/User/Documents/GitHub/template/blocks/sqs-video-background.block",
+		"/C/Users/User/Documents/GitHub/template/blocks/social-links.block",
+		"/C/Users/User/Documents/GitHub/template/blocks/mobile.block",
+		"/C/Users/User/Documents/GitHub/template/blocks/mobile-nav.block",
+		"/C/Users/User/Documents/GitHub/template/blocks/mobile-nav-folder.block",
+		"/C/Users/User/Documents/GitHub/template/blocks/intro.block",
+		"/C/Users/User/Documents/GitHub/template/blocks/header-nav.block",
+		"/C/Users/User/Documents/GitHub/template/blocks/footer.block",
+		"/C/Users/User/Documents/GitHub/template/blocks/footer-nav.block",
+		"/C/Users/User/Documents/GitHub/template/blocks/cart.block",
+		"/C/Users/User/Documents/GitHub/template/blocks/background-media.block",
+		"/C/Users/User/Documents/GitHub/template/assets/ui-icons.svg",
+		"/C/Users/User/Documents/GitHub/Michelle Currier Website",
+		"/C/Users/User/Documents/GitHub/matthewspelman.com/css/style.css",
+		"/C/Users/User/Documents/GitHub/matthewspelman.com/index.html",
+		"/C/Users/User/Documents/GitHub/matthewspelman.com/CNAME",
+		"/C/Users/User/Documents/GitHub/matthewspelman.com/js/CNAME",
+		"/C/Users/User/Documents/GitHub/matthewspelman.com/css/simple-grid.css",
+		"/C/Users/User/Documents/GitHub/matthewspelman.com/img/startup-photos_wireframe2_1280x854.jpg",
+		"/C/Users/User/Documents/GitHub/matthewspelman.com/css/normalize.css",
+		"/C/Users/User/Desktop/matthewspelman.com - Shortcut.lnk"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 42.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 249.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
